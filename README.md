@@ -1,4 +1,4 @@
-# sntech-santosh-chaudhary
+# sntech-multi-service-and-solution
 
 
 # Local Configuration
